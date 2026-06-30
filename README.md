@@ -1,12 +1,14 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ff7b42db-2a45-4059-9c03-fcb6de034cc5" width="600">
 </p>
-
-## Hi, I'm Mize!
+Hi, I'm Mize!
 
 Railsを中心にWebアプリケーション開発を学習しています。
 
-現在は個人開発アプリ「RewardMe」を開発中です。
+現在はゲーム感覚で続けられるタスク管理アプリ
+「RewardMe」を個人開発しています。
+
+UI/UXデザインから設計・実装まで一貫して取り組んでいます。
 
 ---
 
