@@ -9,10 +9,10 @@ Railsを中心にWebアプリケーション開発を学習しています。
 ## About Me
 
 - RUNTEQ 79期
-- Ruby on Rails
-- JavaScript
-- UI / UX Design
-- 個人開発が好き
+- Ruby on Railsを中心にWebアプリケーション開発を学習中
+- 個人開発「RewardMe」を開発
+- UI / UXデザインにもこだわって制作
+- 将来は自社開発企業でサービス開発に携わりたい
 
 ---
 
@@ -36,10 +36,28 @@ Railsを中心にWebアプリケーション開発を学習しています。
 ### RewardMe
 ゲーム感覚で続けられるタスク管理アプリ
 
-- キャラクター育成
-- ガチャ
-- ミニゲーム
-- マイルーム
+## 📸 Screenshots
+
+### 🏠 Home
+(ホーム画像)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/333b79e7-d87a-4657-8f95-8e3a9443d095" width="800"></p>
+### ✅ Task Management
+(タスク画像)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/333b79e7-d87a-4657-8f95-8e3a9443d095" width="800"></p>
+### 🎁 Ribbon Gacha
+(ガチャ画像)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15e833a4-3120-4ef5-9c41-537ba79caf61" width="800"></p>
+### 🎮 Mini Games
+(ゲーム一覧画像)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ef14bd57-5246-4f4d-a0ab-7831492ed3d3" width="800"></p>
+### 🧪 Ribbon Potion
+(ゲーム画像)
+
+
 
 ### Bug Generator
 
