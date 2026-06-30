@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ff7b42db-2a45-4059-9c03-fcb6de034cc5" width="600">
 </p>
-##Hi, I'm Mize!
+## Hi, I'm Mize!
 
 Railsを中心にWebアプリケーション開発を学習しています。
 
