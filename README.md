@@ -52,22 +52,17 @@ UI/UXデザインから設計・実装まで一貫して取り組んでいます
 
 ### ✅ Task Management
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/15e833a4-3120-4ef5-9c41-537ba79caf61" width="700">
+  <img src="https://github.com/user-attachments/assets/15e833a4-3120-4ef5-9c41-537ba79caf61" width="600">
 </p>
 
 ### 🎁 Ribbon Gacha
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/333b79e7-d87a-4657-8f95-8e3a9443d095" width="700">
+  <img src="https://github.com/user-attachments/assets/333b79e7-d87a-4657-8f95-8e3a9443d095" width="600">
 </p>
 
 ### 🎮 Mini Games
 <p align="center">
-<img src="https://github.com/user-attachments/assets/07e54a78-f1cb-4043-818d-ec394a721f52" width="700">
-</p>
-
-### 🧪 Ribbon Potion
-<p align="center">
-<img src="https://github.com/user-attachments/assets/a443cbe4-511d-48bc-991e-d1180253b8da" width="700">
+<img src="https://github.com/user-attachments/assets/07e54a78-f1cb-4043-818d-ec394a721f52" width="600">
 </p>
 
 ### Bug Generator
@@ -83,3 +78,17 @@ UI/UXデザインから設計・実装まで一貫して取り組んでいます
 
 X
 @mizelategm66172
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mize1978&show_icons=true&theme=tokyonight" />
+</p>
+
+## Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mize1978&layout=compact&theme=tokyonight" />
+</p>
