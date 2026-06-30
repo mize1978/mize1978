@@ -41,7 +41,7 @@ UI/UXデザインから設計・実装まで一貫して取り組んでいます
 ## Featured Projects
 
 ### RewardMe
-ゲーム感覚で続けられるタスク管理アプリ
+タスクをこなしてEXPを獲得し、リボンちゃんを育成できるゲーム感覚のタスク管理アプリ。
 
 ## 📸 Screenshots
 
@@ -76,8 +76,7 @@ UI/UXデザインから設計・実装まで一貫して取り組んでいます
 
 ## Contact
 
-X
-@mizelategm66172
+[X (@mizelategm66172)](https://x.com/mizelategm66172)
 
 ---
 
