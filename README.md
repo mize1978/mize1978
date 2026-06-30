@@ -73,6 +73,9 @@ UI/UXデザインから設計・実装まで一貫して取り組んでいます
 ### Bug Generator
 
 ランダムにバグを生成してXへシェアできるミニアプリ
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/19e91320-9e59-482e-ac65-21d09b0bcab1" width="700">
+</p>
 
 ---
 
