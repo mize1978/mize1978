@@ -53,11 +53,12 @@ Railsを中心にWebアプリケーション開発を学習しています。
   <img src="https://github.com/user-attachments/assets/333b79e7-d87a-4657-8f95-8e3a9443d095" width="800"></p>
 ### 🎮 Mini Games
 (ゲーム一覧画像)
-img width="2935" height="1661" alt="games_ribbone" src="https://github.com/user-attachments/assets/a443cbe4-511d-48bc-991e-d1180253b8da" />
+<p align="center">
+<img src="https://github.com/user-attachments/assets/07e54a78-f1cb-4043-818d-ec394a721f52" width="800"></p>
 ### 🧪 Ribbon Potion
 (ゲーム画像)
-<img width="2936" height="1669" alt="Games" src="https://github.com/user-attachments/assets/07e54a78-f1cb-4043-818d-ec394a721f52" />
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a443cbe4-511d-48bc-991e-d1180253b8da" width="800"></p>
 
 ### Bug Generator
 
