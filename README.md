@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Mize!
 
-<!--
-**mize1978/mize1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Railsを中心にWebアプリケーション開発を学習しています。
 
-Here are some ideas to get you started:
+現在は個人開発アプリ「RewardMe」を開発中です。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- RUNTEQ 79期
+- Ruby on Rails
+- JavaScript
+- UI / UX Design
+- 個人開発が好き
+
+---
+
+## Tech Stack
+
+- Ruby
+- Ruby on Rails
+- JavaScript
+- HTML / CSS
+- MySQL
+- PostgreSQL
+- Docker
+- Git / GitHub
+- Render
+
+---
+
+## Featured Projects
+
+### RewardMe
+ゲーム感覚で続けられるタスク管理アプリ
+
+- キャラクター育成
+- ガチャ
+- ミニゲーム
+- マイルーム
+
+### Bug Generator
+
+ランダムにバグを生成してXへシェアできるミニアプリ
+
+---
+
+## Contact
+
+X
+@mizelategm66172
