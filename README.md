@@ -84,17 +84,13 @@ X
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mize1978&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mize1978&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=mize1978&theme=tokyonight" />
 </p>
 
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mize1978&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mize1978&layout=compact&theme=tokyonight" />
 </p>
 
 
