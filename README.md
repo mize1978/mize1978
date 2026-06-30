@@ -39,26 +39,29 @@ Railsを中心にWebアプリケーション開発を学習しています。
 ## 📸 Screenshots
 
 ### 🏠 Home
-(ホーム画像)
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ef14bd57-5246-4f4d-a0ab-7831492ed3d3" width="800"></p><
+<img src="https://github.com/user-attachments/assets/ef14bd57-5246-4f4d-a0ab-7831492ed3d3" width="800">
+</p>
 
 ### ✅ Task Management
-(タスク画像)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/15e833a4-3120-4ef5-9c41-537ba79caf61" width="800"></p>
+  <img src="https://github.com/user-attachments/assets/15e833a4-3120-4ef5-9c41-537ba79caf61" width="800">
+</p>
+
 ### 🎁 Ribbon Gacha
-(ガチャ画像)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/333b79e7-d87a-4657-8f95-8e3a9443d095" width="800"></p>
+  <img src="https://github.com/user-attachments/assets/333b79e7-d87a-4657-8f95-8e3a9443d095" width="800">
+</p>
+
 ### 🎮 Mini Games
-(ゲーム一覧画像)
 <p align="center">
-<img src="https://github.com/user-attachments/assets/07e54a78-f1cb-4043-818d-ec394a721f52" width="800"></p>
+<img src="https://github.com/user-attachments/assets/07e54a78-f1cb-4043-818d-ec394a721f52" width="800">
+</p>
+
 ### 🧪 Ribbon Potion
-(ゲーム画像)
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a443cbe4-511d-48bc-991e-d1180253b8da" width="800"></p>
+<img src="https://github.com/user-attachments/assets/a443cbe4-511d-48bc-991e-d1180253b8da" width="800">
+</p>
 
 ### Bug Generator
 
