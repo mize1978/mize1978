@@ -43,6 +43,8 @@ UI/UXデザインから設計・実装まで一貫して取り組んでいます
 ### RewardMe
 タスクをこなしてEXPを獲得し、リボンちゃんを育成できるゲーム感覚のタスク管理アプリ。
 
+🔗 [Demo](https://rewardme-qaq3.onrender.com) | 📖 [GitHub](https://github.com/mize1978/rewardme) | 📝 [Zenn](https://zenn.dev/mizel1978/articles/a10a4368b282d3)
+
 ## 📸 Screenshots
 
 ### 🏠 Home
@@ -66,8 +68,9 @@ UI/UXデザインから設計・実装まで一貫して取り組んでいます
 </p>
 
 ### Bug Generator
+ランダムにバグを生成してXへシェアできるミニアプリ。
 
-ランダムにバグを生成してXへシェアできるミニアプリ
+🔗 [Demo](https://bug-generator-zt5t.onrender.com) | 📖 [GitHub](https://github.com/mize1978/bug_generator)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/19e91320-9e59-482e-ac65-21d09b0bcab1" width="700">
 </p>
