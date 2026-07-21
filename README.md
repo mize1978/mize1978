@@ -26,53 +26,58 @@ Laravel、Claude API、C++/OpenGLまで、
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### RewardMe
+### 💖 RewardMe
 タスクをこなしてEXPを獲得し、リボンちゃんを育成できるゲーム感覚のタスク管理アプリ。
+
+**Rails · Hotwire · PostgreSQL · Docker · Render**
 
 🔗 [Demo](https://rewardme-qaq3.onrender.com) | 📖 [GitHub](https://github.com/mize1978/rewardme) | 📝 [Zenn](https://zenn.dev/mizel1978/articles/a10a4368b282d3)
 
-## 📸 Screenshots
-
-### 🏠 Home
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ef14bd57-5246-4f4d-a0ab-7831492ed3d3" width="700">
+  <img src="https://github.com/user-attachments/assets/ef14bd57-5246-4f4d-a0ab-7831492ed3d3" width="700">
 </p>
 
-### ✅ Task Management
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/15e833a4-3120-4ef5-9c41-537ba79caf61" width="600">
-</p>
+---
 
-### 🎁 Ribbon Gacha
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/333b79e7-d87a-4657-8f95-8e3a9443d095" width="600">
-</p>
+### 🤖 CodeLensAI
+コードリポジトリをAIがレビューし、品質スコアを可視化するWebアプリ。
 
-### 🎮 Mini Games
-<p align="center">
-<img src="https://github.com/user-attachments/assets/07e54a78-f1cb-4043-818d-ec394a721f52" width="600">
-</p>
+**Rails · Claude API · Hotwire · PostgreSQL · Render**
 
-### Bug Generator
-ランダムにバグを生成してXへシェアできるミニアプリ。
+🔗 [Demo](https://codelens-ai-vplg.onrender.com) | 📖 [GitHub](https://github.com/mize1978/codelens-ai)
 
-🔗 [Demo](https://bug-generator-zt5t.onrender.com) | 📖 [GitHub](https://github.com/mize1978/bug_generator)
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/19e91320-9e59-482e-ac65-21d09b0bcab1" width="700">
-</p>
+---
+
+### 🏗️ FrameLens
+C++/OpenGLで実装した3Dフレームワーク解析ツール。設計・アルゴリズム・低レイヤー実装力を見せる作品。
+
+**C++ · OpenGL · CMake · AddressSanitizer**
+
+📖 [GitHub](https://github.com/mize1978/FrameLens)
+
+---
+
+### 🦆 DebugMe
+ラバーダックデバッグにインスピレーションを受けた、AI搭載の思考整理ツール。AIは裏方。答えを出すのはあなた自身。
+
+**Rails · Claude API · SSE · Hotwire · Render**
+
+📖 [GitHub](https://github.com/mize1978/errorlog-ai)
 
 ---
 
@@ -88,10 +93,6 @@ Laravel、Claude API、C++/OpenGLまで、
   <img src="https://streak-stats.demolab.com?user=mize1978&theme=tokyonight" />
 </p>
 
-## Top Languages
-
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mize1978&layout=compact&theme=tokyonight" />
 </p>
-
-
