@@ -42,20 +42,22 @@ Laravel、Claude API、C++/OpenGLまで、
 ## Featured Projects
 
 ### 💖 RewardMe
-タスクをこなしてEXPを獲得し、リボンちゃんを育成できるゲーム感覚のタスク管理アプリ。
+
+<p align="center">
+  <img src="./banner-rewardme.png" width="100%">
+</p>
 
 **Rails · Hotwire · PostgreSQL · Docker · Render**
 
 🔗 [Demo](https://rewardme-qaq3.onrender.com) | 📖 [GitHub](https://github.com/mize1978/rewardme) | 📝 [Zenn](https://zenn.dev/mizel1978/articles/a10a4368b282d3)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ef14bd57-5246-4f4d-a0ab-7831492ed3d3" width="700">
-</p>
-
 ---
 
 ### 🤖 CodeLensAI
-コードリポジトリをAIがレビューし、品質スコアを可視化するWebアプリ。
+
+<p align="center">
+  <img src="./banner-codelensai.png" width="100%">
+</p>
 
 **Rails · Claude API · Hotwire · PostgreSQL · Render**
 
@@ -78,6 +80,18 @@ C++/OpenGLで実装した3Dフレームワーク解析ツール。設計・ア�
 **Rails · Claude API · SSE · Hotwire · Render**
 
 📖 [GitHub](https://github.com/mize1978/errorlog-ai)
+
+---
+
+### 🐛 Bug Generator
+
+<p align="center">
+  <img src="./banner-buggenerator.jpg" width="100%">
+</p>
+
+**Rails · Hotwire · Stimulus**
+
+🔗 [Demo](https://bug-generator-zt5t.onrender.com) | 📖 [GitHub](https://github.com/mize1978/bug_generator)
 
 ---
 
