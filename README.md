@@ -78,7 +78,10 @@ Laravel、Claude API、C++/OpenGLまで、
 ---
 
 ### 🦆 DebugMe
-ラバーダックデバッグにインスピレーションを受けた、AI搭載の思考整理ツール。AIは裏方。答えを出すのはあなた自身。
+
+<p align="center">
+  <img src="./banner-debugme.png" width="100%">
+</p>
 
 **Rails · Claude API · SSE · Hotwire · Render**
 
