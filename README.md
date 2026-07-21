@@ -71,6 +71,10 @@ Laravel、Claude API、C++/OpenGLまで、
   <img src="./banner-framelens.png" width="100%">
 </p>
 
+C++/OpenGLで実装した2×4フレームの手続き生成・3D可視化ツール。
+Procedural Generation・Ray Picking・部材ハイライト・寸法表示・拾い出しCSV出力を実装。
+（バナーの応力解析グラフはロードマップ予定機能です）
+
 **C++ · OpenGL · CMake · AddressSanitizer**
 
 📖 [GitHub](https://github.com/mize1978/FrameLens)
