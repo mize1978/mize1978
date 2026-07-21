@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.png" width="100%">
+  <img src="./hero.png" width="800">
 </p>
 
 # Hi, I'm Mize!
@@ -44,7 +44,7 @@ Laravel、Claude API、C++/OpenGLまで、
 ### 💖 RewardMe
 
 <p align="center">
-  <img src="./banner-rewardme.png" width="100%">
+  <img src="./banner-rewardme.png" width="800">
 </p>
 
 **Rails · Hotwire · PostgreSQL · Docker · Render**
@@ -56,7 +56,7 @@ Laravel、Claude API、C++/OpenGLまで、
 ### 🤖 CodeLensAI
 
 <p align="center">
-  <img src="./banner-codelensai.png" width="100%">
+  <img src="./banner-codelensai.png" width="800">
 </p>
 
 **Rails · Claude API · Hotwire · PostgreSQL · Render**
@@ -68,7 +68,7 @@ Laravel、Claude API、C++/OpenGLまで、
 ### 🏗️ FrameLens
 
 <p align="center">
-  <img src="./banner-framelens.png" width="100%">
+  <img src="./banner-framelens.png" width="800">
 </p>
 
 C++/OpenGLで実装した2×4フレームの手続き生成・3D可視化ツール。
@@ -84,7 +84,7 @@ Procedural Generation・Ray Picking・部材ハイライト・寸法表示・拾
 ### 🦆 DebugMe
 
 <p align="center">
-  <img src="./banner-debugme.png" width="100%">
+  <img src="./banner-debugme.png" width="800">
 </p>
 
 **Rails · Claude API · SSE · Hotwire · Render**
@@ -96,7 +96,7 @@ Procedural Generation・Ray Picking・部材ハイライト・寸法表示・拾
 ### 🐛 Bug Generator
 
 <p align="center">
-  <img src="./banner-buggenerator.jpg" width="100%">
+  <img src="./banner-buggenerator.jpg" width="800">
 </p>
 
 **Rails · Hotwire · Stimulus**
