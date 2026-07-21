@@ -66,7 +66,10 @@ Laravel、Claude API、C++/OpenGLまで、
 ---
 
 ### 🏗️ FrameLens
-C++/OpenGLで実装した3Dフレームワーク解析ツール。設計・アルゴリズム・低レイヤー実装力を見せる作品。
+
+<p align="center">
+  <img src="./banner-framelens.png" width="100%">
+</p>
 
 **C++ · OpenGL · CMake · AddressSanitizer**
 
