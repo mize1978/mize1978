@@ -2,21 +2,23 @@
   <img src="https://github.com/user-attachments/assets/ff7b42db-2a45-4059-9c03-fcb6de034cc5" width="600">
 </p>
 
-## Hi, I'm Mize!
+# Hi, I'm Mize!
 
-Ruby on Railsを中心にWebアプリケーションを個人開発しています。
+Web・AI・ネイティブアプリケーションを個人開発しています。
 
-企画・UI/UXデザイン・実装・デプロイまで一貫して取り組み、
-ゲーム感覚で続けられる体験づくりをテーマにサービスを開発しています。
+Ruby on Railsを中心に、
+Laravel、Claude API、C++/OpenGLまで、
+企画・設計・実装・デプロイまで一貫して取り組んでいます。
 
 ---
 
 ## About Me
 
 - 🎓 RUNTEQ 79期
-- 🎀 ゲーム感覚のタスク管理アプリ「RewardMe」を企画・設計・開発・リリース
-- 🎨 UI / UXデザインにもこだわった個人開発
-- 🌱 将来は自社開発企業でサービス開発に携わりたい
+- 🚀 Web・AI・C++アプリを企画・設計・開発・リリース
+- 🤖 Claude APIを活用したAIアプリを開発
+- 🎮 ゲームUXとAI UXの設計が好き
+- 🛠 UI/UXからバックエンドまで一貫して開発
 
 ---
 
