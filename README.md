@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ff7b42db-2a45-4059-9c03-fcb6de034cc5" width="600">
+  <img src="./hero.png" width="100%">
 </p>
 
 # Hi, I'm Mize!
