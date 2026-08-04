@@ -101,7 +101,7 @@ Procedural Generation・Ray Picking・部材ハイライト・寸法表示・拾
 
 **Rails · Hotwire · Stimulus**
 
-🔗 [Demo](https://bug-generator-zt5t.onrender.com) | 📖 [GitHub](https://github.com/mize1978/bug_generator)
+🔗 [Demo](https://bug-generator.onrender.com) | 📖 [GitHub](https://github.com/mize1978/bug_generator)
 
 ---
 
