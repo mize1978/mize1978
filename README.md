@@ -39,7 +39,7 @@ Ruby on Railsを中心に、Laravel、Claude API、C++ / OpenGLまで。
 - **Native** — C++ / OpenGLでの3D可視化
 - **Tools** — PostgreSQL、MySQL、Docker、GitHub Actions
 
-RUNTEQ 79期。ゲームUXとAI UXに関心があり、キャラクターや動きも含めて、触りたくなる体験を考えています。
+ゲームUXとAI UXに関心があり、キャラクターや動きも含めて、触りたくなる体験を考えています。
 
 <details>
 <summary>🎨 Creator Workspace Exhibit — 作品の世界観を一枚に</summary>
