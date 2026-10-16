@@ -1,122 +1,53 @@
-<p align="center">
-  <img src="./hero.png" width="800">
-</p>
+# MIZE
 
-# Hi, I'm Mize!
+**Web・AI・C++で、使って楽しいソフトウェアをつくっています。**
 
-Web・AI・ネイティブアプリケーションを個人開発しています。
+Ruby on Railsを中心に、Laravel、Claude API、C++ / OpenGLまで。
+企画・UI / UX設計・実装・デプロイを一貫して手がけています。
 
-Ruby on Railsを中心に、
-Laravel、Claude API、C++/OpenGLまで、
-企画・設計・実装・デプロイまで一貫して取り組んでいます。
+[作品を見る ↓](#つくっているもの) · [X](https://x.com/mizelategm66172)
 
----
+## つくっているもの
 
-## About Me
+<table>
+<tr>
+<td width="36%"><a href="https://rewardme-qaq3.onrender.com"><img src="./banner-rewardme.png" alt="RewardMe — 育成ゲームで習慣化するタスク管理アプリ" width="300"></a></td>
+<td><h3>🎀 RewardMe</h3>毎日のタスクを、育てる楽しみに。<br>キャラクター育成やマイルーム、ミニゲームで習慣づくりを支えるアプリ。<br><br><sub>Rails · Hotwire · PostgreSQL</sub><br><br><a href="https://rewardme-qaq3.onrender.com">使ってみる ↗</a> · <a href="https://github.com/mize1978/rewardme">コード</a> · <a href="https://zenn.dev/mizel1978/articles/a10a4368b282d3">開発記事</a></td>
+</tr>
+<tr>
+<td><a href="https://codelens-ai-vplg.onrender.com"><img src="./banner-codelensai.png" alt="CodeLensAI — リポジトリを読み、理解を蓄積するAIアプリ" width="300"></a></td>
+<td><h3>🔍 CodeLensAI</h3>コードを読み、理解を積み重ねる。<br>GitHubリポジトリをAIが分析し、レビューとその記録を残すアプリ。<br><br><sub>Laravel · PHP · Claude API</sub><br><br><a href="https://codelens-ai-vplg.onrender.com">使ってみる ↗</a> · <a href="https://github.com/mize1978/codelens-ai">コード</a></td>
+</tr>
+<tr>
+<td><a href="https://debugme-2m5k.onrender.com"><img src="./banner-debugme.png" alt="DebugMe — 悩みをAIがエラーログに変換" width="300"></a></td>
+<td><h3>🐈‍⬛ DebugMe</h3>悩みを、エラーログに。<br>AIが原因や解決のヒントを、ターミナル風の画面で届けます。猫のNecoが案内役。<br><br><sub>Rails · Claude API · SSE · Hotwire</sub><br><br><a href="https://debugme-2m5k.onrender.com">使ってみる ↗</a> · <a href="https://github.com/mize1978/debugme">コード</a></td>
+</tr>
+<tr>
+<td><a href="https://bug-generator.onrender.com"><img src="./banner-buggenerator.jpg" alt="Bug Generator — 架空のエラーログで遊ぶミニアプリ" width="300"></a></td>
+<td><h3>🐞 Bug Generator</h3>人生、バグってない？<br>仕事・恋愛・プログラミングなどのテーマから、架空のバグをランダム生成。笑える回避策も添えて。<br><br><sub>Rails · Hotwire · Stimulus</sub><br><br><a href="https://bug-generator.onrender.com">遊んでみる ↗</a> · <a href="https://github.com/mize1978/bug_generator">コード</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/mize1978/FrameLens"><img src="./banner-framelens.png" alt="FrameLens — 2×4フレームの3D可視化ツール" width="300"></a></td>
+<td><h3>🏗️ FrameLens</h3>建物の骨組みを、コードから。<br>2×4フレームの手続き生成・3D可視化ツール。部材選択、寸法表示、拾い出しCSV出力を実装。<br><br><sub>C++ · OpenGL · CMake</sub><br><br><a href="https://github.com/mize1978/FrameLens">コード・実装内容 ↗</a><br><sub>バナーの応力解析グラフは予定機能です。</sub></td>
+</tr>
+</table>
 
-- 🎓 RUNTEQ 79期
-- 🚀 Web・AI・C++アプリを企画・設計・開発・リリース
-- 🤖 Claude APIを活用したAIアプリを開発
-- 🎮 ゲームUXとAI UXの設計が好き
-- 🛠 UI/UXからバックエンドまで一貫して開発
+## 開発について
 
----
+- **Web** — Ruby / Rails、PHP / Laravel、JavaScript / Hotwire
+- **AI** — Claude APIを使った分析・生成、結果を待つ時間も含めたUI設計
+- **Native** — C++ / OpenGLでの3D可視化
+- **Tools** — PostgreSQL、MySQL、Docker、GitHub Actions
 
-## Tech Stack
+RUNTEQ 79期。ゲームUXとAI UXに関心があり、キャラクターや動きも含めて、触りたくなる体験を考えています。
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## Featured Projects
-
-### 💖 RewardMe
-
-<p align="center">
-  <img src="./banner-rewardme.png" width="800">
-</p>
-
-**Rails · Hotwire · PostgreSQL · Docker · Render**
-
-🔗 [Demo](https://rewardme-qaq3.onrender.com) | 📖 [GitHub](https://github.com/mize1978/rewardme) | 📝 [Zenn](https://zenn.dev/mizel1978/articles/a10a4368b282d3)
-
----
-
-### 🤖 CodeLensAI
+<details>
+<summary>🎨 Creator Workspace Exhibit — 作品の世界観を一枚に</summary>
 
 <p align="center">
-  <img src="./banner-codelensai.png" width="800">
+  <img src="./hero.png" alt="RewardMe、CodeLensAI、DebugMe、FrameLens、Bug Generatorを並べた展示室のイラスト" width="800">
 </p>
 
-**Rails · Claude API · Hotwire · PostgreSQL · Render**
+各作品をイメージしたビジュアルです。実際の機能・画面は、それぞれのアプリとREADMEをご覧ください。
 
-🔗 [Demo](https://codelens-ai-vplg.onrender.com) | 📖 [GitHub](https://github.com/mize1978/codelens-ai)
-
----
-
-### 🏗️ FrameLens
-
-<p align="center">
-  <img src="./banner-framelens.png" width="800">
-</p>
-
-C++/OpenGLで実装した2×4フレームの手続き生成・3D可視化ツール。
-Procedural Generation・Ray Picking・部材ハイライト・寸法表示・拾い出しCSV出力を実装。
-（バナーの応力解析グラフはロードマップ予定機能です）
-
-**C++ · OpenGL · CMake · AddressSanitizer**
-
-📖 [GitHub](https://github.com/mize1978/FrameLens)
-
----
-
-### 🦆 DebugMe
-
-<p align="center">
-  <img src="./banner-debugme.png" width="800">
-</p>
-
-**Rails · Claude API · SSE · Hotwire · Render**
-
-📖 [GitHub](https://github.com/mize1978/errorlog-ai)
-
----
-
-### 🐛 Bug Generator
-
-<p align="center">
-  <img src="./banner-buggenerator.jpg" width="800">
-</p>
-
-**Rails · Hotwire · Stimulus**
-
-🔗 [Demo](https://bug-generator.onrender.com) | 📖 [GitHub](https://github.com/mize1978/bug_generator)
-
----
-
-## Contact
-
-[X (@mizelategm66172)](https://x.com/mizelategm66172)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mize1978&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mize1978&layout=compact&theme=tokyonight" />
-</p>
+</details>
