@@ -18,7 +18,7 @@
 </tr>
 <tr>
 <td><a href="https://github.com/mize1978/butterfly-town"><img src="https://mize1978.github.io/cases/practice-butterfly-art.jpg" alt="Butterfly Town — 石畳と水路の街、女の子とミント色のスクーターのアート試作" width="300"></a></td>
-<td><h3>🦋 Butterfly Town</h3><strong>小さな一手が、街の未来を変える。</strong><br>人格・記憶・目標を持つAI住民3人が暮らす、ミッション攻略型の街シミュレーションを制作中。会話と「蝶を放つ」介入で、街祭りの成功を目指します。<br><br><sub>Ruby on Rails · React · TypeScript ／ ゲーム描画を検証中</sub><br><strong>RUNTEQ卒業制作・設計／技術検証中</strong><br><br><a href="https://github.com/mize1978/butterfly-town">企画・開発リポジトリ ↗</a> · <a href="https://mize1978.github.io/#practice">アート試作</a><br><sub>掲載画像はアート試作です。実LLMの統合・本体公開はこれから。</sub></td>
+<td><h3>🦋 Butterfly Town</h3><strong>小さな一手が、街の未来を変える。</strong><br>人格・記憶・目標を持つAI住民3人が暮らす、ミッション攻略型の街シミュレーションを制作中。会話と「蝶を放つ」介入で、街祭りの成功を目指します。<br><br><sub>Ruby on Rails · React · TypeScript ／ ゲーム描画を検証中</sub><br><strong>設計／技術検証中</strong><br><br><a href="https://github.com/mize1978/butterfly-town">企画・開発リポジトリ ↗</a> · <a href="https://mize1978.github.io/#practice">アート試作</a><br><sub>掲載画像はアート試作です。実LLMの統合・本体公開はこれから。</sub></td>
 </tr>
 </table>
 
@@ -55,7 +55,7 @@
 ## 開発について
 
 - **Web / App** — Next.js · React · TypeScript · Astro · Ruby on Rails · Laravel · Hotwire
-- **AI** — Claude API · OpenAI API ／ Codex・Claude Codeと連携した開発・作業の可視化
+- **AI** — Claude API · OpenAI API ／ AIエージェントの作業状況の可視化
 - **Graphics** — C++ · OpenGL · WebAssembly · WebGL2 · PixiJS · Phaser
 - **Design / Creative** — UI/UX · Figma · STUDIO · 映像制作
 - **Tools** — PostgreSQL · MySQL · Docker · GitHub Actions
